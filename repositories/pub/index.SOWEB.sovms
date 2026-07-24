@@ -1,7 +1,8 @@
 {
     "name": "SOWEB",
     "apis": {
-        "view": "https://raw.githubusercontent.com/shaman2016scratch/sosirsOS/{API_ID}/repositories/pub/index.SOWEB.sovms"
+        "view": "https://raw.githubusercontent.com/shaman2016scratch/sosirsOS/{API_ID}/repositories/pub/{branch}.SOWEB.sovms",
+        "branch": "index"
     },
     "rules": {
         "isView": true,
@@ -13,20 +14,31 @@
             "title": "Init",
             "date": "2026-07-23T11:12:31.468Z",
             "API_ID": "9943b82c4f50754976c0b2a689e49498db7aa98a"
+        },
+        {
+            "id": "f04f25",
+            "title": "Update",
+            "date": "",
+            "API_ID": "..."
         }
     ],
     "commit": {
-        "000000": 0
+        "000000": 0,
+        "f04f25": 1
     },
     "files": [
-        "html-parser.js",
+        "parser.js",
         "37",
-        "src/",
+        "src/html/",
         "async function htmlParser(html) { return html.split(\"\n\") }",
         "tag-parser.js",
         "37",
-        "src/",
-        "async function parseMiniTag(tag) { return tag.split(\"<\")[1].split(\"/>\")[0] }; async function parseTag(tag) { const tagBody = tag.split(\"<\")[1].split(\">\")[0]; const tagBodyParsed = tagBody.split(\" \"); const tagName = tagBodyParsed[0]; const content = tag.split(`<${tagBody}>`)[1].split(`</${tagName}>`)[0]; return [tagBody, tagName, content] }; async function parseTagBody(tagBody) { return tagBody.split(' ') }"
+        "src/html/",
+        "async function parseMiniTag(tag) { return tag.split(\"<\")[1].split(\"/>\")[0] }; async function parseTag(tag) { const tagBody = tag.split(\"<\")[1].split(\">\")[0]; const tagBodyParsed = tagBody.split(\" \"); const tagName = tagBodyParsed[0]; const content = tag.split(`<${tagBody}>`)[1].split(`</${tagName}>`)[0]; return [tagBody, tagName, content] }; async function parseTagBody(tagBody) { return tagBody.split(' ') }",
+        "data.js",
+        "37",
+        "",
+        "const data = { version: '1.0.0', os: execute.os.name, osVersion: execute.os.version }"
     ],
-    "url": "https://shaman2016scratch.github.io/sosirsOS/repositories/pub/index.SOWEB.sovms"
+    "url": "https://shaman2016scratch.github.io/sosirsOS/repositories/pub/{branch}.SOWEB.sovms"
 }
