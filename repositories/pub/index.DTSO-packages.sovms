@@ -1,7 +1,8 @@
 {
     "name": "DTSO-PKG-LIST",
     "apis": {
-        "view": "https://raw.githubusercontent.com/shaman2016scratch/sosirsOS/{API_ID}/repositories/pub/index.DTSO-packages.sovms"
+        "view": "https://raw.githubusercontent.com/shaman2016scratch/sosirsOS/{API_ID}/repositories/pub/{branch}.DTSO-packages.sovms",
+        "branch": "index"
     },
     "rules": {
         "isView": true,
@@ -24,5 +25,5 @@
         "",
         []
     ],
-    "url": "https://shaman2016scratch.github.io/sosirsOS/repositories/pub/index.DTSO-packages.sovms"
+    "url": "https://shaman2016scratch.github.io/sosirsOS/repositories/pub/{branch}.DTSO-packages.sovms"
 }
