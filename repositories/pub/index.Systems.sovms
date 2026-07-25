@@ -1,0 +1,46 @@
+{
+    "name": "Systems",
+    "apis": {
+        "view": "https://raw.githubusercontent.com/shaman2016scratch/sosirsOS/{API_ID}/repositories/pub/{branch}.Systems.sovms",
+        "branch": "index"
+    },
+    "rules": {
+        "isView": true,
+        "isEdit": false
+    },
+    "commits": [
+        {
+            "id": "000000",
+            "title": "Init",
+            "date": "1785007560000",
+            "API_ID": ""
+        }
+    ],
+    "commit": {
+        "000000": 0
+    },
+    "files": [
+        "data.txt",
+        "12",
+        "",
+        {
+            "AB6Ccd3RXkbArjyHzzYpZR6bBFXd8RbS": "scr.intergram.sosirsos",
+            "eehX6NRtzrRpsY8RzRehiJCF6iydNhFJ": "scr.intergram.sokernel",
+            "8mApXaDfAXkCsD2bXWRhyC65M5bpXPwj": "scr.drixfoundation.dtso",
+            "pXHKGsB65ADPNBFy6Y2WKttrmkBkyHyJ": "scr.drixfoundation.drixDinho",
+            "JNwcm2ZkzWf2EES5pxdFetet6nMfa7cP": "scr.intergram.UbuntuEmulator",
+            "reYbP2ZzJc3Nn88hhD2mPetT4Bc7rzd4": "scr.intergram.sosirsDOS v1.0",
+            "3w7sJwZJ5t6mxSwiXHt5swDPeEe6MCmT": "scr.powerX.powerX v1.3.1",
+            "y5AK6eEtH4mkiTjTCRG67MXiZ4JyH3nW": "as.dcg.kiros v4.x"
+        },
+        "iframe.txt",
+        "12",
+        "",
+        {},
+        "danger.txt",
+        "12",
+        "",
+        []
+    ],
+    "url": "https://shaman2016scratch.github.io/sosirsOS/repositories/pub/{branch}.Systems.sovms"
+}
