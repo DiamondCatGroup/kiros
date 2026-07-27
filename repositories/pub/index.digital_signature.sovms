@@ -1,0 +1,29 @@
+{
+    "name": "digital_signature",
+    "apis": {
+        "view": "https://raw.githubusercontent.com/shaman2016scratch/sosirsOS/{API_ID}/repositories/pub/{branch}.digital_signature.sovms",
+        "branch": "index"
+    },
+    "rules": {
+        "isView": true,
+        "isEdit": false
+    },
+    "commits": [
+        {
+            "id": "000000",
+            "title": "Init",
+            "date": "1785136122634",
+            "API_ID": "..."
+        }
+    ],
+    "commit": {
+        "000000": 0
+    },
+    "files": [
+        "data.txt",
+        "12",
+        "",
+        {}
+    ],
+    "url": "https://shaman2016scratch.github.io/sosirsOS/repositories/pub/{branch}.digital_signature.sovms"
+}
