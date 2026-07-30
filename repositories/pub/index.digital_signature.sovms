@@ -33,11 +33,12 @@
         {
             "authors": {
                 "uuidHash": {},
-                "idHash": {}
+                "idHash": []
             },
             "projects": {
                 "hash": {},
-                "idHash": {}
+                "idHash": [],
+                "author": {}
             }
         },
         "utils.js",
