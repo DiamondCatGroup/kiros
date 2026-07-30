@@ -14,16 +14,36 @@
             "title": "Init",
             "date": "1785136122634",
             "API_ID": "f80306917b6bd153f9112503f4d72e0851a36dfd"
+        },
+        {
+            "id": "bh48th",
+            "title": "upd",
+            "date": "1785438300000",
+            "API_ID": ""
         }
     ],
     "commit": {
-        "000000": 0
+        "000000": 0,
+        "bh48th": 1
     },
     "files": [
         "data.txt",
         "12",
         "",
-        {}
+        {
+            "authors": {
+                "uuidHash": {},
+                "idHash": {}
+            },
+            "projects": {
+                "hash": {},
+                "idHash": {}
+            }
+        },
+        "utils.js",
+        "37",
+        "",
+        ""
     ],
     "url": "https://shaman2016scratch.github.io/sosirsOS/repositories/pub/{branch}.digital_signature.sovms"
 }
