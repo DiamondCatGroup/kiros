@@ -13,7 +13,8 @@
             "id": "000000",
             "title": "Init",
             "date": "2026-07-20T20:51:02.229Z",
-            "API_ID": "ce7b42a2957c9128cd734f90907bbe735f30e711"
+            "API_ID": "ce7b42a2957c9128cd734f90907bbe735f30e711",
+            "authors": [ { "name": "shaman2016scratch", "email": null } ]
         }
     ],
     "commit": {
