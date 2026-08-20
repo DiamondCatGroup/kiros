@@ -12,7 +12,7 @@
         {
             "id": "000000",
             "title": "Init",
-            "date": "1785007560000",
+            "date": 1785007560000,
             "API_ID": "a124fd96f0c1b8f062cde9270b8260892175651a",
             "authors": [ { "name": "polzovatel_8787", "email": null } ]
         }

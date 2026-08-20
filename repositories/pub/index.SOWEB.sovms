@@ -19,14 +19,14 @@
         {
             "id": "f04f25",
             "title": "Update",
-            "date": "1784910840000",
+            "date": 1784910840000,
             "API_ID": "ce7b42a2957c9128cd734f90907bbe735f30e711",
             "authors": [ { "name": "polzovatel_8787", "email": null } ]
         },
         {
             "id": "gj48ck",
             "title": "Update",
-            "date": "1786218420000",
+            "date": 1786218420000,
             "API_ID": "b22634914f7c2e668a749a7b0f95a79179ec4176",
             "authors": [ { "name": "pozlovatel_8787", "email": null } ]
         }
