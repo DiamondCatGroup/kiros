@@ -22,7 +22,7 @@
     },
     "files": [
         "data.txt",
-        "12",
+        12,
         "",
         {
             "AB6Ccd3RXkbArjyHzzYpZR6bBFXd8RbS": "scr.intergram.sosirsos",
@@ -35,11 +35,11 @@
             "y5AK6eEtH4mkiTjTCRG67MXiZ4JyH3nW": "as.dcg.kiros v4.x"
         },
         "iframe.txt",
-        "12",
+        12,
         "",
         {},
         "danger.txt",
-        "12",
+        12,
         "",
         []
     ],
