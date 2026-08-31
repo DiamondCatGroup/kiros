@@ -1,0 +1,49 @@
+{
+    "name": "DTSO",
+    "apis": {
+        "view": "https://raw.githubusercontent.com/shaman2016scratch/sosirsOS/{API_ID}/repositories/pub/{branch}.DTSO.sovms",
+        "branch": "index"
+    },
+    "rules": {
+        "isView": true,
+        "isEdit": false
+    },
+    "commits": [
+        {
+            "id": "000000",
+            "title": "Init",
+            "date": 1788203452355,
+            "API_ID": "",
+            "authors": [ { "name": "polzovatel_8787", "email": null } ]
+        }
+    ],
+    "commit": {
+        "000000": 0
+    },
+    "files": [
+        "src",
+        14,
+        "",
+        "getItems.js",
+        37,
+        "src/",
+        "function getCliItems(command) { return command.split(\" \") };",
+        "and.js",
+        37,
+        "src/",
+        "function getCliAnd(command) { return command.split(\" && \") };",
+        "getParam.js",
+        37,
+        "src/",
+        "function getCliParam(item) { return item.split(\"--\")[1] };",
+        "getValue.js",
+        37,
+        "src/",
+        "function getCliValue(item) { return item.split(\":\")[1] };",
+        "getSetter.js",
+        37,
+        "src/",
+        "function getCliGetter(item) { let returN = {}; returN[item.split(\":\")[0]] = item.split(\":\")[1]; return returN };"
+    ],
+    "url": "https://shaman2016scratch.github.io/sosirsOS/repositories/pub/{branch}.DTSO.sovms"
+}
