@@ -1,5 +1,5 @@
 {
-    "name": "DTSO",
+    "name": "ILS",
     "apis": {
         "view": "https://raw.githubusercontent.com/shaman2016scratch/sosirsOS/{API_ID}/repositories/pub/{branch}.ILS.sovms",
         "branch": "index"
@@ -33,8 +33,34 @@
             "IMPORT MODULE e2ee",
             "IMPORT MODULE scratch.say",
             "IMPORT MODULE sosirsOS.fs",
-            "// result",
-            "USE-MODULE json buffer.array"
+            "USE-MODULE json buffer.array",
+            "// compile result",
+            "USE-MODULE json buffer.save 3335",
+            "// compile lines",
+            "USE-MODULE json buffer.save 3336",
+            "USE-MODULE json buffer.object",
+            "// Variables",
+            "USE-MODULE json buffer.save 3337",
+            "// program RAM",
+            "LOAD-A 3338",
+            "LOAD-B 3348",
+            "// hex nums",
+            "USE-MODULE json object.set 0 0000",
+            "USE-MODULE json object.set 1 0001",
+            "USE-MODULE json object.set 2 0010",
+            "USE-MODULE json object.set 3 0011",
+            "USE-MODULE json object.set 4 0100",
+            "USE-MODULE json object.set 5 0101",
+            "USE-MODULE json object.set 6 0110",
+            "USE-MODULE json object.set 7 0111",
+            "USE-MODULE json object.set 8 1000",
+            "USE-MODULE json object.set 9 1001",
+            "USE-MODULE json object.set a 1010",
+            "USE-MODULE json object.set b 1011",
+            "USE-MODULE json object.set c 1100",
+            "USE-MODULE json object.set d 1101",
+            "USE-MODULE json object.set e 1110",
+            "USE-MODULE json object.set f 1111"
         ]
     ],
     "tags": {
