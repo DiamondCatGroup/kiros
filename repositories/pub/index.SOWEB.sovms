@@ -29,12 +29,20 @@
             "date": 1786218420000,
             "API_ID": "b22634914f7c2e668a749a7b0f95a79179ec4176",
             "authors": [ { "name": "pozlovatel_8787", "email": null } ]
+        },
+        {
+            "id": "fksf55",
+            "title": "Updates and fix",
+            "date": 1788415553593,
+            "API_ID": "",
+            "authors": [ { "name": "pozlovatel_8787", "email": null } ]
         }
     ],
     "commit": {
         "000000": 0,
         "f04f25": 1,
-        "gj48ck": 2
+        "gj48ck": 2,
+        "fksf55": 3
     },
     "files": [
         "src",
@@ -42,7 +50,7 @@
         "",
         "html",
         14,
-        "",
+        "src/",
         "parser.js",
         37,
         "src/html/",
@@ -58,7 +66,13 @@
         "data.js",
         37,
         "src/",
-        "const data = { version: '1.0.0', os: execute.os.name, osVersion: execute.os.version }"
+        "const data = { version: '1.0.0', os: execute.os.name, osVersion: execute.os.version }",
+        "SOWEB-Styles",
+        14,
+        "src/",
+        "js",
+        14,
+        "src/"
     ],
     "url": "https://shaman2016scratch.github.io/sosirsOS/repositories/pub/{branch}.SOWEB.sovms"
 }
