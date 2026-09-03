@@ -20,6 +20,30 @@
     "commit": {
         "000000": 0
     },
-    "files": [],
+    "files": [
+        "main.asm",
+        53,
+        "",
+        [
+            "IMPORT MODULE json",
+            "IMPORT MODULE cast",
+            "IMPORT MODULE scratch.join",
+            "IMPORT MODULE scratch.ask",
+            "IMPORT MODULE encrypting",
+            "IMPORT MODULE e2ee",
+            "IMPORT MODULE scratch.say",
+            "IMPORT MODULE sosirsOS.fs",
+            "// result",
+            "USE-MODULE json buffer.array"
+        ]
+    ],
+    "tags": {
+        "2.0.0": {
+            "notes": "Support: sosirsOS 1.2.0 DEMO 8.6+",
+            "date": 0,
+            "commit": "???",
+            "branch": "index"
+        }
+    },
     "url": "https://shaman2016scratch.github.io/sosirsOS/repositories/pub/{branch}.ILS.sovms"
 }
