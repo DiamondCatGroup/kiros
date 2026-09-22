@@ -15,6 +15,13 @@
             "date": 1785007560000,
             "API_ID": "a124fd96f0c1b8f062cde9270b8260892175651a",
             "authors": [ { "name": "polzovatel_8787", "email": null } ]
+        },
+        {
+            "id": "000000",
+            "title": "Add DCT systems",
+            "date": "2026-09-22T09:32:00.936Z",
+            "API_ID": "736f4f512d4f49c6e212903670e1cbbc994039fe",
+            "authors": [ { "name": "polzovatel_8787", "email": null } ]
         }
     ],
     "commit": {
@@ -32,7 +39,12 @@
             "JNwcm2ZkzWf2EES5pxdFetet6nMfa7cP": "scr.intergram.UbuntuEmulator",
             "reYbP2ZzJc3Nn88hhD2mPetT4Bc7rzd4": "scr.intergram.sosirsDOS v1.0",
             "3w7sJwZJ5t6mxSwiXHt5swDPeEe6MCmT": "scr.powerX.powerX v1.3.1",
-            "y5AK6eEtH4mkiTjTCRG67MXiZ4JyH3nW": "as.dcg.kiros v4.x"
+            "y5AK6eEtH4mkiTjTCRG67MXiZ4JyH3nW": "as.kiros.plus",
+            "hbPHa8endYHw5hNxDYhRj3dHsizaAbDW": "as.kiros.oneteros",
+            "tMFR7bjNBkYEhnsXZk2CCrHrzRhYS5Sr": "as.kiros.eighteros",
+            "fYGiG85ZhMZNNePnjyYAfNez2FdHndZH": "as.alstan.alos",
+            "FPiXAszTipJiXXZNXnKR5zFENQyBwYc4": "as.dct.didos",
+            "SttmtczGt5cMkTwPaeXnhnamXSY6jkD5": "as.dct.touch"
         },
         "iframe.txt",
         12,
