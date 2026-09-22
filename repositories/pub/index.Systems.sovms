@@ -1,7 +1,7 @@
 {
     "name": "Systems",
     "apis": {
-        "view": "https://raw.githubusercontent.com/shaman2016scratch/sosirsOS/{API_ID}/repositories/pub/{branch}.Systems.sovms",
+        "view": "https://raw.githubusercontent.com/DiamondCatGroup/kiros/{API_ID}/repositories/pub/{branch}.Systems.sovms",
         "branch": "index"
     },
     "rules": {
@@ -55,5 +55,5 @@
         "",
         []
     ],
-    "url": "https://shaman2016scratch.github.io/sosirsOS/repositories/pub/{branch}.Systems.sovms"
+    "url": "https://diamondcatgroup.github.io/kiros/repositories/pub/{branch}.Systems.sovms"
 }
